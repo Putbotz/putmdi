@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['60134430667'],
   ['60147366955'],
-  ['60134430667', 'fee', true]
+  ['60147366955', 'owner putbotz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'wa.me/60147366955'
-global.author = 'fee by put'
+global.author = 'aimi by put'
 
 global.multiplier = 69 // The higher, The harder levelup
 
