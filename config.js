@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['60134430667'],
   ['60147366955'],
-  ['60147366955', 'owner putbotz', true]
+  ['60134430667', 'owner iFee', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -31,9 +31,9 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'wa.me/60147366955'
-global.author = 'aimi by put'
+global.author = 'iFee by put'
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 999 // The higher, The harder levelup
 
 global.rpg = {
   emoticon(string) {
